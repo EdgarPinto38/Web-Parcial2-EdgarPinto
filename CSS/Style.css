@@ -1,1 +1,6 @@
+html{
+    background: gray;
+}
+
+
 @import "../node_modules/bootstrap/scss/bootstrap";
