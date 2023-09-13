@@ -1,1 +1,3 @@
-# Web-Parcial2-EdgarPinto
+# Practicas del psrcial 2
+
+- [Practica 1]()
