@@ -1,3 +1,3 @@
 # Practicas del parcial 2
 
-- [Practica 1](/Practica1/Index.html)
+- [Practica 1](/Index.html)
